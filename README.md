@@ -147,3 +147,5 @@ Germany
 - Edge Impulse
 - Espressif ESP32
 - Arduino Community
+- Hochschule Fulda
+- Prof. Ivan Jursic
